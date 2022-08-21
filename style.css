@@ -1,0 +1,20 @@
+
+.page-container{
+    width: 750px;
+    margin: 0 auto;
+}
+.game-grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+}
+.game-grid img{
+    width: 150px;
+    height: 150px;
+}
+p{
+    font-weight: 600;
+    font-size: medium;
+}
